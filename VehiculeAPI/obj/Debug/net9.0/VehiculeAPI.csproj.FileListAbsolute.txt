@@ -30,3 +30,7 @@ C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\obj\Debug\net9.0\refint\Vehi
 C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\obj\Debug\net9.0\VehiculeAPI.pdb
 C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\obj\Debug\net9.0\VehiculeAPI.genruntimeconfig.cache
 C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\obj\Debug\net9.0\ref\VehiculeAPI.dll
+C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\RiderProjects\VehiculeAPI\VehiculeAPI\obj\Debug\net9.0\VehiculeAPI.sourcelink.json
